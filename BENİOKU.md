@@ -1,6 +1,24 @@
--Merhaba Ben Berkan C# Hakkında Şeyler Yapıyorum 2D oyunlar Kodluyorum
--Bu Oyunları Kodlarken Burada Paylaşacağım 
-<!---
-06berkan06/06berkan06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm Berkan S.
+
+🎓 17 y/o Software Developer | IT Student
+💻 Passionate about Web Development, APIs, and Automation  
+🎮 Game development enthusiast with experience in 2D top-down games  
+
+## 🚀 About Me
+- 💡 Interested in **Web Development, FastAPI, and Game Development**  
+- 🔭 Completed an internship at **Baytmap Software**, where I built an **API automation system with FastAPI**  
+- 📚 Currently learning advanced problem-solving in Math/CS while preparing for **YKS**  
+- ⚡ Love building practical tools, modern web apps, and creative projects  
+
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript, C#  
+- **Frameworks & Tools:** FastAPI, React, Node.js, Git, Docker  
+- **Other Skills:** API Integration, Automation Scripts, UI/UX Design  
+
+## 🌐 Connect with Me
+- 💼 [Upwork Profile](#) *(profil linkini ekle)*  
+- 🔗 [LinkedIn](#) *(LinkedIn linkini ekle)*  
+- 📂 [Portfolio Website](#) *(eğer Ulusar sitesi hazır olunca burayı ekleyebilirsin)*  
+
+---
+⭐ Always open to collaboration on web, game, and automation projects!
