@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Berkan S.
 
-🎓 17 y/o Software Developer | IT Student
+🎓 18 y/o Software Developer | IT Student
 💻 Passionate about Web Development, APIs, and Automation  
 🎮 Game development enthusiast with experience in 2D top-down games  
 
@@ -16,9 +16,9 @@
 - **Other Skills:** API Integration, Automation Scripts, UI/UX Design  
 
 ## 🌐 Connect with Me
-- 💼 [Upwork Profile](#) *(profil linkini ekle)*  
-- 🔗 [LinkedIn](#) *(LinkedIn linkini ekle)*  
-- 📂 [Portfolio Website](#) *(eğer Ulusar sitesi hazır olunca burayı ekleyebilirsin)*  
+- 💼 [Upwork Profile](#) *()*  
+- 🔗 [LinkedIn](#) *()*  
+- 📂 [Portfolio Website](#) *(preparing)*  
 
 ---
 ⭐ Always open to collaboration on web, game, and automation projects!
